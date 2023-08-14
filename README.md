@@ -6,12 +6,19 @@ purpose, it is desired to have quick access to the following data about the pers
 both personnel numbers and dates of appointment to the institution:
 
 Personnel number 4-digit integer
+<br>
 Name : string
+<br>
 Surname : string
+<br>
 Title : string
+<br>
 Salary coefficient : real number
+<br>
 Date of birth : Date (day, month and year separate integers)
+<br>
 Date of appointment to this institution : Date (day, month and year separate integers) 
+<br>
 Length of service in other institutions (days) : integer
 
 To access staff information through the staff number, a circular single-linked list with a list-
