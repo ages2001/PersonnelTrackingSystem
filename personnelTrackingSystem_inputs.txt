@@ -1,0 +1,43 @@
+1
+2577
+Atakan
+Gesmeli
+Ogrenci
+3.5
+11/14/2001
+09/09/2023
+2
+3235
+Mert Yusuf
+Yasar
+Ogrenci
+4.7
+03/01/2002
+07/14/2022
+100
+2
+1965
+Siyabend
+Ur un
+Customer Ogrenci
+6.9
+12/27/2003
+06/06/2020
+700
+1
+2502
+Ozan
+Koca
+Ogrenci
+1.2
+06/11/2002
+08/08/2023
+1
+1000
+First
+1 1
+Ogren ci
+1.0
+10/10/1999
+12/12/2011
+7
