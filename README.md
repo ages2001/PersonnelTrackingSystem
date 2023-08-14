@@ -21,8 +21,8 @@ Date of appointment to this institution : Date (day, month and year separate int
 <br>
 Length of service in other institutions (days) : integer
 
-To access staff information through the staff number, a circular single-linked list with a list-
-head node ordered by staff number from smallest to largest will be used. To access staff
+To access personnel information through the personnel number, a circular single-linked list with a list-
+head node ordered by personnel number from smallest to largest will be used. To access personnel
 information through the date of appointment to the organization, a circular doubly-linked list
 with a list-head node ordered by date of appointment to the organization will be used.
 
