@@ -26,9 +26,9 @@ public:
 
     double getSalaryCoefficient() const;
 
-    Date * getBirthDate() const;
+    Date *getBirthDate() const;
 
-    Date * getAppointmentDate() const;
+    Date *getAppointmentDate() const;
 
     int getServiceDays() const;
 

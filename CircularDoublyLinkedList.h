@@ -52,7 +52,7 @@ public:
 
     void printSpecYearInfo(int year) const;
 
-    void printLatestTitlePersonnel(const string& title) const;
+    void printLatestTitlePersonnel(const string &title) const;
 
     void freeList();
 };

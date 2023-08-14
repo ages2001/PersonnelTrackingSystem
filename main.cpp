@@ -21,7 +21,8 @@ int main() {
     cout << " 9 - Listing of personnel appointed to the organization in a given year\n";
     cout << "10 - Listing of personnel born before a certain birthdate\n";
     cout << "11 - Listing of personnel born in a specific month\n";
-    cout << "12 - Listing the information of the last personnel appointed to the organization from the personnel with a specific title\n\n";
+    cout
+            << "12 - Listing the information of the last personnel appointed to the organization from the personnel with a specific title\n\n";
 
     while (true) {
         cout << "\nEnter the operation (0 - 12): ";

@@ -20,11 +20,11 @@ double Personnel::getSalaryCoefficient() const {
     return this->salaryCoefficient;
 }
 
-Date * Personnel::getBirthDate() const {
+Date *Personnel::getBirthDate() const {
     return this->birthDate;
 }
 
-Date * Personnel::getAppointmentDate() const {
+Date *Personnel::getAppointmentDate() const {
     return this->appointmentDate;
 }
 

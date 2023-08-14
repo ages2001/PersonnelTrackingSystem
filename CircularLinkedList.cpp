@@ -97,21 +97,15 @@ void CircularLinkedList::add(Personnel *data) {
 
             prevNode->setNext(newNode);
             setHead(newNode);
-        }
-
-        else {
+        } else {
             newNode = new Node(data, head->getNext());
             head->setNext(newNode);
         }
-    }
-
-    else {
+    } else {
         if (current->getNext() == head && data->getNumber() > current->getData()->getNumber()) {
             newNode = new Node(data, head);
             current->setNext(newNode);
-        }
-
-        else {
+        } else {
             newNode = new Node(data, current);
             Node *prevNode = head;
 
